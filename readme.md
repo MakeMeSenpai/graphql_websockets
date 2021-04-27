@@ -421,7 +421,7 @@ Implement the code above and test your code.
 
 - launch the server with `node server.js` or `nodemon server.js`
 - Open `index.html` in *two* windows or tabs
-- Sending a message from on of the tabs/windows should display that message in both windws. 
+- Sending a message from on of the tabs/windows should display that message in both windows. 
 
 Every tab/window running the client should get messages broadcast by the server.
 
